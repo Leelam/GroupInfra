@@ -153,7 +153,7 @@ body {
 /* Text Style Start Here */
 
 h1 {
-	font:20px Myriad Pro, Arial, Helvetica, sans-serif;
+	font:20px pt sans;
 	color:#ffffff;
 	font-weight:100;
 	border-bottom:1px solid #558F2A;
@@ -162,7 +162,7 @@ h1 {
 }
 
 h2 {
-	font:20px Myriad Pro, Arial, Helvetica, sans-serif;
+	font:20px pt sans;
 	color:#143956;
 	font-weight:100;
 	border-bottom:1px solid #D3D6DE;
@@ -322,7 +322,7 @@ a:hover {
 }
 
 h5 {
-	font:15px Myriad Pro, Arial, Helvetica, sans-serif;
+	font:15px pt sans;
 	color:#143956;
 	font-weight:100;
 	padding:0px 0px 5px 0px;
@@ -332,7 +332,7 @@ h5 {
 
 
 h6 {
-	font:17px Myriad Pro, Arial, Helvetica, sans-serif;
+	font:17px pt sans;
 	color:#143956;
 	font-weight:100;
 	padding:0px 0px 5px 0px;

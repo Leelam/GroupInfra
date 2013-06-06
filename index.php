@@ -31,11 +31,9 @@ include_once("header.php");
             <h2>Our <span class="greenheading">Clients</span></h2>
           </div>
           <div class="service-content">
-            <div> <img src="images/service-img.gif" alt="" class="floatimgleft" /> <strong>Suspendisse interdum velit eget pede.</strong> Vivamus tellus lorem, elementum vestibulum, tempor sagittis, venenatis eget, lacus. Sed eu massa. Duis facilisis dignissim urna.<br />
-              <strong><br />
-              Proin eu velit.</strong> Donec blandit, orci id dapibus pretium, metus ante pulvinar nunc, ac vestibulum nisi metus nec nisl. Sed non libero ac dolor eleifend varius. Maecenas mollis, metus eu porta sodales, metus metus sodales augue, id iaculis risus velit eu lectus. Vestibulum in neque.<br />
-              <br />
-              Nunc viverra. Aliquam suscipit egestas turpis. Aenean mollis est. Sed feugiat, nulla sit amet dictum aliquam, massa leo elementum risus, sed gravida felis erat ut libero. Integer sem nisi, adipiscing non, sagittis eget, hendrerit non, nisi. Aliquam ante. Nam magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis cursus tortor. Nunc consectetuer diam ac odio. Pellentesque vel mauris sit amet urna malesuada ornare. Curabitur venenatis est eget arcu. Donec vestibulum. Proin rutrum. Morbi commodo fringilla orci. Ut vel tortor. In ut velit. Vivamus hendrerit aliquam quam. Curabitur placerat eros vitae libero. Fusce sagittis commodo purus. Cras </div>
+            <div> <img src="images/service-img.gif" alt="" class="floatimgleft" />
+Our Clients 
+             </div>
           </div>
         </div>
       </div>

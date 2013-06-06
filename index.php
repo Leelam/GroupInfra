@@ -11,40 +11,19 @@ include_once("header.php");
       <div class="workarea">
         <div>
           <div>
-            <h2>Company <span class="greenheading">Services</span></h2>
+            <h2>Welcome To <span class="greenheading">Group Infra</span></h2>
           </div>
           <div class="service-content">
-            <div><strong>Suspendisse interdum velit eget pede. Vivamus tellus lorem,</strong> elementum vestibulum, tempor sagittis, venenatis eget, lacus. Sed eu massa. Duis facilisis dignissim urna. Proin eu velit. Donec blandit, orci id dapibus pretium, metus ante pulvinar nunc, ac vestibulum nisi metus nec nisl. Sed non libero ac dolor eleifend varius. Maecenas mollis, metus eu porta sodales, metus metus sodales augue, id iaculis risus velit eu l </div>
-            <div>
-              <div class="serviceleft">
-                <div class="servicelink">
-                  <ul>
-                    <li><a href="index.html">Maecenas erat vulputate condimentum.</a></li>
-                    <li><a href="index.html">Maecenas feugiat mi nec metus.</a></li>
-                    <li><a href="index.html">Proin ac ligula at mi laoreet mattis.</a></li>
-                    <li><a href="index.html">Sed volutpat ipsum quis nisi.</a></li>
-                    <li><a href="index.html">Maecenas feugiat metus.</a></li>
-                    <li><a href="index.html">sit amet enim odio feugiat feugiat.</a></li>
-                    <li><a href="index.html">Maecenas erat vulputate condimentum.</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="serviceright">
-                <div class="servicelink">
-                  <ul>
-                    <li><a href="index.html">Maecenas erat vulputate condimentum.</a></li>
-                    <li><a href="index.html">Maecenas feugiat mi nec metus.</a></li>
-                    <li><a href="index.html">Proin ac ligula at mi laoreet mattis.</a></li>
-                    <li><a href="index.html">Sed volutpat ipsum quis nisi.</a></li>
-                    <li><a href="index.html">Maecenas feugiat metus.</a></li>
-                    <li><a href="index.html">sit amet enim odio feugiat feugiat.</a></li>
-                    <li><a href="index.html">Maecenas erat vulputate condimentum.</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="clear"></div>
+          	<font color="WHITE"><marquee behavior="alternate" style="background:green;"><p style="font-size:15px;">What We Belive</p></marquee></font>
+            <div><strong><p style="font-size:20px;">Tomorrow we will run faster,stretch out our arms farther.... And one fine morning- So we beat on,boats against the current,borne back ceaselessly into the success.</p></strong> 
+<font color="WHITE"><marquee behavior="alternate" style="background:green"><p style="font-size:15px;">We Welcome You</p></marquee></font>
+
+<p style="font-size:15px;">To cater the needs, <b>Group Infra</b> is being established with a mission to provide quality services to the world of infrastructure.</p>
+
+<p style="font-size:15px;">We are into the following verticals which emphasizes our commitment to deliver quality outcome</p>
+
             </div>
-          </div>
+                      </div>
         </div>
         <div class="clear"></div>
         <div>
@@ -68,9 +47,7 @@ include_once("header.php");
           <div class="welcomebottom">
             <div class="welcomeworkarea">
               <h1>Welcome</h1>
-              <div> <strong>Proin eu velit. Donec blandit</strong>, orci id dapibus pretium, metus ante pulvinar nunc, ac vestibulum nisi metus nec nisl. Sed non libero ac dolor eleifend varius. Maecenas mollis, metus eu porta sodales, metus metus sodales augue, id iaculis risus velit eu lectus. Vestibulum in neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br />
-                <br />
-                <strong>Lorem ipsum dolor sit amet</strong>, consectetuer adipiscing elit. Duis cursus tortor. Nunc consectetuer diam ac odio. Pellentesque vel mauris sit amet urna malesuada ornare. Curabitur venenatis est eget arcu. Donec vestibulum. Proin rutrum. Morbi commodo fringilla orci. Ut vel tortor. </div>
+              <div> <strong>Tomorrow we will run faster, stretch out our arms farther.... And one fine morning- So we beat on, boats against the current, borne back ceaselessly into the success</strong></div>
             </div>
           </div>
         </div>
@@ -79,29 +56,30 @@ include_once("header.php");
       <div class="workarea">
         <div>
           <div>
-            <h2>What's <span class="greenheading">New</span></h2>
+            <h2>Ongoing <span class="greenheading">Projects</span></h2>
           </div>
           <div class="newszone">
             <div>
-              <div class="blackfont12" style="margin-top:0px;">Aliquam non | <span class="bluefontlight">22.05.2009</span></div>
-              <div>In nec tellus congue libero ultricies molestie. Duis et diam. Suspendisse interdum velit eget pede. Duis facilisis dignissim urna. </div>
+              <div class="blackfont12" style="margin-top:0px;">Road Construction | <span class="bluefontlight">22.05.2009</span></div>
+              <div>The Road Project for Finland will assist in financing the improvement of roads. Road traffic has increased recently in Finland at an annual rate of sixteen percent. As a result, the main road network must be continuously upgraded and improved to handle the increasing traffic. The project will accomplish this goal by: 1) constructing a 14.3 km four lane freeway section west of Helsinki between Gumbole and Veikkola; 2) paving 2,400 km of various road sections; 3) procuring additional maintenance equipment </div>
             </div>
             <div>
-              <div class="blackfont12">Sollicitudin velit | <span class="bluefontlight">24.05.2009</span></div>
-              <div>Vestibulum convallis metus eget orci posuere bibendum. Quisque sit amet augue.Nam magna. Pellentesque vitae velit at dui semper sodales. Curabitur accumsan libero.</div>
+              <div class="blackfont12">Building Construction | <span class="bluefontlight">24.05.2009</span></div>
+              <div>CONSTRUCTION PROJECT REPORT RETURN FORM TO Section A PROJECT IDENTIFICATION The construction project described below is associated with your ... involve the erection of a new residential building(s) containing 2 or more housing units. If the project is</div>
             </div>
             <div>
-              <div class="blackfont12">Sollicitudin velit | <span class="bluefontlight">27.05.2009</span></div>
-              <div>In nec tellus congue libero ultricies molestie. Duis et diam. Suspendisse interdum velit eget pede. Duis facilisis dignissim urna. Proin eu velit. Donec blandit, orci id dapibus pretium, metus ante pulvinar nunc, ac vestibulum nisi metus nec nisl. </div>
+              <div class="blackfont12">Bridge Construction | <span class="bluefontlight">27.05.2009</span></div>
+              <div>Rehabilitated bridge information is taken from the Financial Management Information System. Bridge rehabilitation improvement types along with the construction authorization date are used to generate the bridge rehabilitation totals. </div>
             </div>
           </div>
           <div class="more"><a href="index.html"><img src="images/morenews.jpg" alt="" border="0" /></a></div>
           <div class="contact">
             <div class="contactheading">Contact</div>
-            <span class="whitebold">Architectural Company</span><br />
-            69, Nunc a quam <br />
-            Morbi diam city<br />
-            PIN - 4567890</div>
+            <span class="whitebold">Group Infra PVT.LTD</span><br />
+            KPHB Colony <br />
+            Plot No 30,Block No 213<br />
+            Malaysian township<br />
+        Hyderabad,Pin 500035.</div>
         </div>
       </div>
     </div>

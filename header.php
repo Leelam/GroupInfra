@@ -1,8 +1,7 @@
 <body>
 <div id="wrapper">
   <div class="header">
-    <div style="position:absolute; left: 32px;"> <img src="images/355.png" alt="" border="0" /></div>
-    <div class="header-left"> <a href="index.html"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
+    <div class="header-left"> <a href="index.html"><img src="images/logo123.png" alt="" border="0" width="45%"/></a> </div>
      <div class="header-right">Phone : 9949990991<br />
       </div>
     <div class="clear"></div>
@@ -23,4 +22,4 @@
       </div>
     </div>
   </div>
-  
+  <div class="clear"></div>

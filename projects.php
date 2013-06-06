@@ -23,7 +23,7 @@ include_once 'header.php'
                   <div class="clear"></div>
                 </div>
                 <br />
-                <div style="font-weight:bold;"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="index.php/">View this project</a>
+                <div style="font-weight:bold;"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="index.php">View this project</a>
                   <div class="clear"></div>
                 </div>
               </div>

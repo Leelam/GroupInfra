@@ -27,7 +27,29 @@ include_once("header.php");
                <div class="clear"></div>
               <div>
                 <h5>What We Do</h5>
-                <div>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</div>
+                <div>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:
+<div>
+<h5>Civil Engineering</h5>
+<ul>
+<li>Project Management</li>
+<li>Highways</li>
+<li>Bridges</li>
+<li>Pre-Fabricated Structures</li>
+<li>Mining</li>
+<li>Surveying Works</li>
+	</ul>
+	<h5>Mechanical</h5>
+<ul>
+<li>Project Management</li>
+<li>Highways</li>
+<li>Bridges</li>
+<li>Pre-Fabricated Structures</li>
+<li>Mining</li>
+<li>Surveying Works</li>
+	</ul>
+</div>
+
+                </div>
               </div><br>
              
               <div class="clear"></div>

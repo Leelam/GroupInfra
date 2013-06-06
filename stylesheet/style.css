@@ -36,6 +36,7 @@ body {
 	text-align:right;
 	font-weight:bold;
 	padding:30px 90px 0px 0px;
+	margin-top: -120px;
 }
 
 .menuzone {
@@ -424,4 +425,7 @@ input.button:hover {
 	padding:10px 0px 10px 0px;
 }
 
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
 /* Inside Style End Here	*/

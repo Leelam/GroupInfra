@@ -2,6 +2,7 @@
 include_once("head.php");
 include_once("header.php");
 ?>
+<link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
 <div class="container">
     <div class="container-left">
       <div>
@@ -71,35 +72,30 @@ include_once("header.php");
   </div>
             
       </div>
-      <div style="background-image:url('india.jpg');background-repeat:no-repeat;">
+      <div style="background-image:url('images/india-bg15.png');background-repeat:no-repeat;min-height:720px">
 
 
       <div class="clear"></div>
       <div class="workarea">
         <div>
           <div>
-            <h2>Welcome To <span class="greenheading">Group Infra</span></h2>
+            <h2> <marquee> <div style="float:left"> Welcome To </div><div style="float:left"><img src="images/logo12345.png" height="50px" /> </div></marquee></h2>
           </div>
           <div class="service-content">
-          	<p style="font-size: 20px;background: rgb(230, 230, 230);border: 1px solid #eee;padding: 6px;color: black;">What We Belive</p>
-            <div><strong><p style="font-size:12px;">Tomorrow we will run faster,stretch out our arms farther.... And one fine morning- So we beat on,boats against the current,borne back ceaselessly into the success.</p></strong> 
-<p style="font-size: 20px;background: rgb(230, 230, 230);border: 1px solid #eee;padding: 6px;color: black;">We Welcome You</p>
+          	<p style="font-size: 20px;font-family: PT SAns;padding: 6px;color: black;"><span style="border-bottom:2.5px solid rgb(250, 125, 125);"> What We Belive </span></p>
+            <div><p style="font-size:16px;font-family: 'Milonga', cursive;margin-top:-10px;">Tomorrow will run faster, stretch out our arms farther.... And one fine morning- So we beat on,boats against the current,borne back ceaselessly into the success.</p>
+                <p style="font-size: 20px;font-family: PT SAns;padding: 6px;color: black;"><span style="border-bottom:2.5px solid rgb(250, 125, 125);"> We Welcome You</span> </p>
 
-<p style="font-size:15px;">To cater the needs, <b>Group Infra</b> is being established with a mission to provide quality services to the world of infrastructure.</p>
+                <p style="font-size:16px;font-family: 'Milonga', cursive;margin-top:-10px;">To cater the needs, <b>Group Infra</b> is being established with a mission to provide quality services to the world of infrastructure.</p>
 
-<p style="font-size:15px;">We are into the following verticals which emphasizes our commitment to deliver quality outcome</p>
+                <p style="font-size:16px;font-family: 'Milonga', cursive;">We are into the following verticals which emphasizes our commitment to deliver quality outcome</p>
 
             </div>
                       </div>
         </div>
         </div>
         <div class="clear"></div>
-        <div>
-          <div>
-            <h2>Our <span class="greenheading">Clients</span></h2>
-          </div>
-          
-        </div>
+        
       </div>
     </div>
     <div class="container-right">

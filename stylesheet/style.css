@@ -2,8 +2,8 @@
 
 body {
 	font:11px Arial, Helvetica, sans-serif;
-	color:#565656;
-	background:#DADDE4 url(../images/bg.gif) left top repeat-x;
+	color:#000;
+	
 	margin:0px;
 	padding:0px;
 
@@ -13,7 +13,7 @@ body {
 
 #wrapper {
 	width:1003px;
-	background:url(../images/header.jpg) left top no-repeat;
+	background:url(../images/header21.png) left top no-repeat;
 	margin:0px auto;
 }
 
@@ -60,7 +60,7 @@ body {
 
 .container {
 	width:898px;
-	background:url(../images/container.jpg) left top no-repeat;
+	
 	text-align:justify;
 	padding:2px 4px;
 	margin:0px auto;
@@ -98,7 +98,7 @@ body {
 }
 
 .workarea {
-	padding:20px 11px 20px 11px;
+	padding:0px 11px 20px 0px;
 }
 
 .serviceleft {
@@ -112,7 +112,7 @@ body {
 }
 
 .service-content {
-	padding:0px 28px 0px 28px;
+	padding:0px 28px 0px 0px;
 }
 
 .floatimgleft{
@@ -170,8 +170,8 @@ h2 {
 	color:#143956;
 	font-weight:100;
 	border-bottom:1px solid #D3D6DE;
-	border-top:1px solid #D3D6DE;
-	padding:6px 0px 6px 23px;
+	
+	padding:6px 0px 6px 0px;
 	margin:0px 0px 18px 0px;
 }
 

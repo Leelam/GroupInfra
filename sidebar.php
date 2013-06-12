@@ -17,14 +17,6 @@
               <div>Rehabilitated bridge information is taken from the Financial Management Information System. Bridge rehabilitation improvement types along with the construction authorization date are used to generate the bridge rehabilitation totals. </div>
             </div>
           </div>
-          <div class="more"><a href="projects.php"><img src="images/morenews.jpg" alt="" border="0" /></a></div>
-          <div class="contact">
-            <div class="contactheading">Contact</div>
-            <span class="whitebold">Group Infra PVT.LTD</span><br />
-            KPHB Colony <br />
-            Plot No 30,Block No 213<br />
-            Malaysian township<br />
-        Hyderabad,Pin 500035.</div>
         </div>
       </div>
     </div>

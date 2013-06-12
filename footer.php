@@ -4,5 +4,21 @@
   </div>
 </div>
 <div class="clear"></div>
+
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" >
+function blink(selector){
+$(selector).fadeOut('slow', function(){
+$(this).fadeIn('slow', function(){
+blink(this);
+});
+});
+}
+
+blink('#msg');
+</script>
+
+
 </body>
 </html>

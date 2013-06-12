@@ -8,6 +8,8 @@ include_once 'header.php'
       <div>
         <div class="insidebanner"></div>
       </div>
+      <div style="background-image:url('images/india-bg15.png');background-repeat:no-repeat;min-height:720px">
+
       <div class="clear"></div>
       <div class="workarea">
         <div>
@@ -68,6 +70,7 @@ With the team of qualified professionals, we are committed to execute the road p
         <div> </div>
       </div>
     </div>
+  </div>
     <div class="container-right">
       <div>
         <div class="welcomezone">
@@ -90,9 +93,54 @@ With the team of qualified professionals, we are committed to execute the road p
       <div class="clear"></div>
   
 
-<?php
-include_once 'sidebar.php';
-?>
+ <div class="workarea" style="margin-top:20px">
+        <div>
+          <div>
+            <h2>Latest Infra News</h2>
+          </div>
+          <div class="newszone">
+            <div>
+              <div class="blackfont12" style="margin-top:0px;">NHBF News update - 4-June-2013</div>
+              <div>Ficci bats for CCI clearance of 50 projects
+
+The list of projects Ficci pushing for clearances from various ministries
+include investments worth Rs 56,265 crore in metals, Rs 8,000 crore in mining
+Federation of Indian Chambers of Commerce and Industry (Ficci) has submitted a
+list of over fifty delayed projects to the cabinet secretariat which may see
+an investment of about Rs 2.89 lakh crore to be considered for clearance at Cabinet
+Committee on Investments (CCI).</div>
+            </div>
+            <div>
+              <div class="blackfont12">Freight corridor to get Japanese boost with L&T-Sojitz contract</div>
+              <div>With the award of a Rs 6,700-crore contract for the western arm of the
+Dedicated Freight Corridor (DFC) to a consortium of Larsen & Toubro and
+Japan's Sojitz scheduled in a week, India's railway infrastructure would see another
+major Japanese imprint. India has received the highest Japanese official
+development assistance. Also, Indian companies have received the second-highest
+assistance from Japan Bank for International Cooperation (JBIC), after Chinese
+companies.</div>
+            </div>
+            <div>
+              <div class="blackfont12"></div>
+              <div>Delhi Metro Rail Corporation (DMRC) was the first major Indian project that saw
+Japanese funding. Now, the Indian Railway-owned Dedicated Freight Corridor
+Corporation (DFCC) is set for a long-term engagement with Japan. DFCC was
+awaiting a clearance for the award of the 640-km Rewari-Palanpur civil contract to
+the consortium after a two-way contest with Ircon-Mitsui, said a government
+official. "Right now, DFC is one of the biggest projects Japan is focusing on. Once
+this is completed, everything else will take off," Tamaki Tsukada, minister
+(economic), Embassy of Japan, told Business Standard.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+
 <?php
 include_once 'footer.php';
 ?>

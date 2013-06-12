@@ -3,6 +3,7 @@ include_once("head.php");
 include_once("header.php");
 ?>
 
+
   <div class="clear"></div>
   <div class="container">
     <div class="container-left">
@@ -15,6 +16,8 @@ include_once("header.php");
           <div>
             <h2>Company<span class="greenheading"> Information</span></h2>
           </div>
+          <div style="background-image:url('images/india-bg15.png');background-repeat:no-repeat;min-height:720px">
+
           <div class="service-content">
             <div style="padding-bottom:10px;">
               <div><p>Incorporated by a team driven by young enthusiastic entrepreneurs, we Group Infra is set out with a vision to be a leader in Infrastructure development Industry by offering quality services to its clients.</p><br />
@@ -52,52 +55,18 @@ include_once("header.php");
                 </div>
               </div><br>
              
-              <div class="clear"></div>
-              <div>
-                <h5>Our Values</h5>
-                <div><p>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p></div>
-              </div>
-              <div class="clear"></div>
-              <div class="aboutcolumnzone">
-                <div class="aboutcolumn1">
-                  <div>
-                    <h5>Customer Service</h5>
-                    <img src="images/ico-med-1.png" alt="" class="abouticon" /> <p>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p>
-                    
-                  </div>
-                </div>
-                <div class="aboutcolumn2">
-                  <div>
-                    <h5>Award Winning</h5>
-                    <img src="images/ico-med-2.png" alt="" class="abouticon" /> <p>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p>
-                  </div>
-                </div>
-                <div class="clear"></div>
-                <div class="aboutcolumn1">
-                  <div>
-                    <h5>Global Reach</h5><p>
-                    As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p>
-                  </div>
-                </div>
-                <div class="aboutcolumn2">
-                  <div>
-                    <h5>Availability</h5>
-                    <img src="images/ico-med-4.png" alt="" class="abouticon" /> <p>As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p>
-                  </div>
-                </div>
-                <div class="clear"></div>
-              </div>
-              <div>
-                <h5>Our Commitment</h5><p>
-                As a professional, technical and fastest growing organization in the infrastructure sector in India, we <b>Group Infra</b> provides best services in the following sectors:</p>
-              </div>
+              
+              
+              
             </div>
           </div>
         </div>
+      </div>
         <div class="clear"></div>
         <div> </div>
       </div>
     </div>
+
     <div class="container-right">
       <div>
         <div class="welcomezone">
@@ -113,7 +82,7 @@ include_once("header.php");
       <div class="workarea" style="margin-top:20px">
         <div>
           <div>
-            <h2>Latest Infra News</h2>
+            <h2 id="msg">Latest Infra News</h2>
           </div>
           <div class="newszone">
             <div>
@@ -128,7 +97,7 @@ include_once("header.php");
     <br>          
               <div>(B) Repayment of such loan would be the last priority under the waterfall mechanism of the Escrow Agreement. It would be allowed only after meeting all kinds of statutory levies/ taxes, O&M expenses, concession fee, damages and other dues of the Authority and Debt Service along with interset due</div>
         <br>
-              <div>(C) Submission of an undertaking by the Concesssionaire that it would not enhance the amount of Debt due,Termination Payment or any other liability of NHAI in ay manner whatsoever. 
+              <div>(c) Submission of an undertaking by the Concesssionaire that it would not enhance the amount of Debt due,Termination Payment or any other liability of NHAI in ay manner whatsoever. 
 
 and more......
 </div>

@@ -67,22 +67,7 @@ include_once 'header.php'
 </table>
 </form>
               </div>
-              <div> <br />
-                <h6>Contact Information: </h6>
-                <img src="images/photo-contact.jpg" alt="" width="196" height="130" class="project-img" />
-                <p><h3>InfraDaily 
-                 Plot No 902, Block No 11<br>
-                 Malaysian Township, KPHB Colony,<br>
-                 Kukatpally,Hyderabad<br />
-                  88-99 Sit Amet, Lorem<br />
-                  USA</h3></p>
-                <p> <span><img src="images/ico-phone.png" alt="" width="20" height="16" hspace="2"  /> Phone:</span> (888) 123 456 789<br />
-                  <span><img src="images/ico-fax.png" alt="" width="20" height="16" hspace="2"  /> Fax:</span> (888) 987 654 321<br />
-                  <span><img src="images/ico-website.png" alt="" width="20" height="16" hspace="2"  /> Website:</span> <a href="index.php">www.groupinfra.com</a><br />
-                  <span><img src="images/ico-email.png" alt="" width="20" height="16" hspace="2"  /> Email:</span> <a href="index.php">info@groupinfra.com</a><br />
-                  <span><img src="images/ico-twitter.png" alt="" width="20" height="16" hspace="3"  /> <a href="index.php">Follow</a> on Twitter</span><br />
-                </p>
-              </div>
+              
             </div>
           </div>
         </div>
@@ -96,24 +81,51 @@ include_once 'header.php'
           <div class="welcomebottom">
             <div class="welcomeworkarea">
               <h1>Contact</h1>
-              <div> <strong>
-<p><h3>InfraDaily 
-                 Plot No 902, Block No 11<br>
-                 Malaysian Township, KPHB Colony,<br>
-                 Kukatpally,Hyderabad<br />
-                  88-99 Sit Amet, Lorem<br />
-                  USA</h3></p>
-<strong>
-              </div>
+  
             </div>
           </div>
         </div>
       </div>
       <div class="clear"></div>
   
-<?php
-include_once 'sidebar.php';
-?>
+ <div class="workarea" style="margin-top:20px">
+        <div>
+          <div>
+            <h2>Latest Infra News</h2>
+          </div>
+          <div class="newszone">
+            <div>
+              <div class="blackfont12" style="margin-top:0px;">Bullet train technology set to come to India, Japan to invest heavily</div>
+              <div>India to get Japanese bullet train technology.
+India is set to benefit from the famed Japanese bullet train technology, with Tokyo
+pledging to invest heavily in building high speed railway systems in the country.
+Prime Minister Manmohan Singh and his Japanese counterpart Shinzo Abe issued a joint statement on Wednesday in which they laid down the course of co-operation between the two countries on setting up high speed railway systems in India.</div>
+            </div>
+            <div>
+              <div class="blackfont12">Power Ministry, Environment Ministry discuss hydro projects clearances
+issue</div>
+              <div>NEW DELHI: In a bid to foster development of hydro sector, the Power
+Ministry has taken up the issue of environmental and forest clearances related to
+hydel projects with theEnvironment Ministry.
+Even though India is estimated to have a hydro power potential of about 1,50,000
+MW, only about 39,000 MW of hydro projects are operational while many are
+stuck at various developmental stages.
+
+"A bunch of issues have been discussed with the Environment Ministry. The
+discussions have been encouraging," Devendra Chaudhry, Additional Secretary in
+the Power Ministry, said here today.  </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+
 <?php
 include_once 'footer.php';
 ?>

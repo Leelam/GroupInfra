@@ -14,44 +14,13 @@ include_once 'header.php'
           <div>
             <h2>Our<span class="greenheading"> Projects</span></h2>
           </div>
-          <div class="service-content">
-            <div style="padding-bottom:10px;">
-              <div class="ourprojectrow">
-                <h6>Road Construction</h6>
-                <div> <img src="images/projectimg1.jpg" alt="" width="210" height="139" class="project-img" /> 
-                	The Road Project for Finland will assist in financing the improvement of roads. Road traffic has increased recently in Finland at an annual rate of sixteen percent. As a result, the main road network must be continuously upgraded and improved to handle the increasing traffic. The project will accomplish this goal by: 1) constructing a 14.3 km four lane freeway section west of Helsinki between Gumbole and Veikkola; 2) paving 2,400 km of various road sections; 3) procuring additional maintenance equipment
-                  <div class="clear"></div>
-                </div>
-                <br />
-                <div style="font-weight:bold;"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="index.php">View this project</a>
-                  <div class="clear"></div>
-                </div>
-              </div>
-              <div class="ourprojectrow">
-                <h6>Building Construction </h6>
-                <div> <img src="images/projectimg2.jpg" alt="" width="210" height="139" class="project-img" /> CONSTRUCTION PROJECT REPORT RETURN FORM TO Section A PROJECT IDENTIFICATION The construction project described below is associated with your ... involve the erection of a new residential building(s) containing 2 or more housing units. If the project is
-                  <div class="clear"></div>
-                </div>
-                <br />
-                <div style="font-weight:bold;"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="index.php">View this project</a>
-                  <div class="clear"></div>
-                </div>
-              </div>
-              <div class="ourprojectrow">
-                <h6>Bridge Construction </h6>
-                <div> <img src="images/projectimg3.jpg" alt="" width="210" height="139" class="project-img" /> Rehabilitated bridge information is taken from the Financial Management Information System. Bridge rehabilitation improvement types along with the construction authorization date are used to generate the bridge rehabilitation totals.
-                  <div class="clear"></div>
-                </div>
-                <br />
-                <div style="font-weight:bold;"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="index.php">View this project</a>
-                  <div class="clear"></div>
-                </div>
-              </div>
-            </div>
-          </div>
+          <div style="background-image:url('images/india-bg15.png');background-repeat:no-repeat;min-height:720px">
+
+<h3>We will update the content soon</h3>
+
+</div>
         </div>
-        <div class="clear"></div>
-        <div> </div>
+         </div>
       </div>
     </div>
     <div class="container-right">
@@ -68,7 +37,44 @@ include_once 'header.php'
         </div>
       </div>
       <div class="clear"></div>
-  
+   <div class="workarea" style="margin-top:20px">
+        <div>
+          <div>
+            <h2>Latest Infra News</h2>
+          </div>
+          <div class="newszone">
+            <div>
+              <div class="blackfont12" style="margin-top:0px;">RNHBF News update - 4-June-2013</div>
+              <div>Govts new road viability plan: Invite bids for smaller sections New Delhi : The road transport ministry plans to break the 555-km Kishangarh- Udaipur-Ahmedabad road project into two or more projects of smaller sizes andrebid them separately to make them a viable proposition.</div>
+            </div>
+            <div>
+              <div class="blackfont12">Multi-crore road project faces more delays</div>
+              <div>Water lines hinder EMRIP work; NHAI blames Metrowater for not shifting them
+A delay by Chennai Metrowater in shifting water main line running beneath
+Manali Oil Refinery Road (MORR), is threatening to push the deadline of the Rs.
+600-crore Ennore-Manali Road Improvement Project in north Chennai.</div>
+            </div>
+            <div>
+              <div class="blackfont12">Let states decide on guidelines for highrises: Panel to Green ministry</div>
+              <div>New Delhi : The environment ministry‘s 2012 guidelines for high-rise buildings
+that link a building‘s height with the width of the road on which it is located — and
+had been strongly opposed by state governments — has failed to get the backing of
+a review committee set up by the ministry.
+
+The committee headed by Planning Commission member Dr K Kasturirangan has
+recommended that issues relating to urban planning, fire fighting and disaster
+management should be left to state governments and local bodies instead.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+
 
 <?php
 include_once 'footer.php';

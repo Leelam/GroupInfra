@@ -75,6 +75,8 @@ include_once("header.php");
       <div style="background-image:url('images/india-bg15.png');background-repeat:no-repeat;min-height:720px">
 
 
+<div > <strong><font color="red">Awesome Gallery By Anil Labs</font></strong></p> </div>
+
       <div class="clear"></div>
       <div class="workarea">
         <div>
@@ -174,7 +176,7 @@ include_once("header.php");
    <div class="workarea" style="margin-top:20px">
         <div>
           <div>
-            <h2><p class="blinking">Latest Infra News</p></h2>
+            <h2><p id="msg">Latest Infra News</p></h2>
           </div>
           <div class="newszone">
             <div>

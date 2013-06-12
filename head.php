@@ -3,5 +3,8 @@
 <head>
 <title>Group Infra</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="stylesheet/slide.css" rel="stylesheet" type="text/css" />
 <link href="stylesheet/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/slide.js"></script>
 </head>

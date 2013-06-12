@@ -5,7 +5,63 @@ include_once("header.php");
 <div class="container">
     <div class="container-left">
       <div>
-        <div class="banner"></div>
+        <div id="myCarousel" class="carousel slide">
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                  <li data-target="#myCarousel" data-slide-to="3"></li>
+                  <li data-target="#myCarousel" data-slide-to="4"></li>
+                  <li data-target="#myCarousel" data-slide-to="5"></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <img src="images/banner.jpg" alt="">
+                    <div class="carousel-caption">
+                      <h4>First Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slide2.png" alt="">
+                    <div class="carousel-caption">
+                      <h4>Second Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slide3.png" alt="">
+                    <div class="carousel-caption">
+                      <h4>Third Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slide4.png" alt="">
+                    <div class="carousel-caption">
+                      <h4>Third Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slide5.png" alt="">
+                    <div class="carousel-caption">
+                      <h4>Third Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slide6.png" alt="">
+                    <div class="carousel-caption">
+                      <h4>Third Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                </div>
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+  </div>
+            
       </div>
       <div class="clear"></div>
       <div class="workarea">
@@ -30,15 +86,7 @@ include_once("header.php");
           <div>
             <h2>Our <span class="greenheading">Clients</span></h2>
           </div>
-          <div class="service-content">
-            <div> <img src="images/service-img.gif" alt="" class="floatimgleft" />
-            	<img src="images/service-img.gif" alt="" class="floatimgleft" />
-            	<img src="images/service-img.gif" alt="" class="floatimgleft" />
-            	<img src="images/service-img.gif" alt="" class="floatimgleft" />
-            	<img src="images/service-img.gif" alt="" class="floatimgleft" />
-            	<img src="images/service-img.gif" alt="" class="floatimgleft" />
-             </div>
-          </div>
+          
         </div>
       </div>
     </div>
@@ -55,6 +103,7 @@ include_once("header.php");
         </div>
       </div>
       <div class="clear"></div>
+
      <?php
 include_once("sidebar.php");
      ?>

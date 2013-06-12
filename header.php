@@ -1,4 +1,4 @@
-<body background="india.jpg">
+<body>
 <div id="wrapper">
   <div class="header">
     <div class="header-left"> <a href="index.html"><img src="images/logo123.png" alt="" border="0" width="45%"/></a> </div>

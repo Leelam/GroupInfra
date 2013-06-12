@@ -71,6 +71,9 @@ include_once("header.php");
   </div>
             
       </div>
+      <div style="background-image:url('india.jpg');background-repeat:no-repeat;">
+
+
       <div class="clear"></div>
       <div class="workarea">
         <div>
@@ -88,6 +91,7 @@ include_once("header.php");
 
             </div>
                       </div>
+        </div>
         </div>
         <div class="clear"></div>
         <div>

@@ -13,6 +13,7 @@ include_once("header.php");
                   <li data-target="#myCarousel" data-slide-to="3"></li>
                   <li data-target="#myCarousel" data-slide-to="4"></li>
                   <li data-target="#myCarousel" data-slide-to="5"></li>
+                  <li data-target="#myCarousel" data-slide-to="6"></li>
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
@@ -30,7 +31,7 @@ include_once("header.php");
                     </div>
                   </div>
                   <div class="item">
-                    <img src="images/slide3.png" alt="">
+                    <img src="images/slider3.jpg" alt="">
                     <div class="carousel-caption">
                       <h4>Third Thumbnail label</h4>
                       
@@ -44,14 +45,21 @@ include_once("header.php");
                     </div>
                   </div>
                   <div class="item">
-                    <img src="images/slide5.png" alt="">
+                    <img src="images/slider4.jpg" alt="">
                     <div class="carousel-caption">
                       <h4>Third Thumbnail label</h4>
                       
                     </div>
                   </div>
                   <div class="item">
-                    <img src="images/slide6.png" alt="">
+                    <img src="images/slider7.jpg" alt="">
+                    <div class="carousel-caption">
+                      <h4>Third Thumbnail label</h4>
+                      
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="images/slider8.jpg" alt="">
                     <div class="carousel-caption">
                       <h4>Third Thumbnail label</h4>
                       

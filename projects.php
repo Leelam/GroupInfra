@@ -69,9 +69,7 @@ include_once 'header.php'
       </div>
       <div class="clear"></div>
   
-<?php
-include_once 'sidebar.php';
-?>
+
 <?php
 include_once 'footer.php';
 ?>

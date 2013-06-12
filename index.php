@@ -111,10 +111,39 @@ include_once("header.php");
         </div>
       </div>
       <div class="clear"></div>
+ <div class="workarea" style="margin-top:20px">
+        <div>
+          <div>
+            <h2>Latest Infra News</h2>
+          </div>
+          <div class="newszone">
+            <div>
+              <div class="blackfont12" style="margin-top:0px;">Road Construction | <span class="bluefontlight">22.05.2009</span></div>
+              <div>The Hon 'ble Supreme Court took note of the O.M. dated 31.03.2011 and incorporated it in part-II of their judgment dated 6th July 20 II in l.A.s No. 1868, 2091, 2225-2227,  2380, 2568 and 2937 in the W.P. (Civil) No. 202 of 1995 in the matter ofT.N. Godavarman  Thirumulpad versus Union of India and others, as one of the guidelines to be followed by the Central  Government, State Governments and various other Authorities under the Forest Conservation Act,  1980 and
+Environment (Protection) Act, 1986 in all future cases so that fait accompli situations do not recur.</div>
+            </div>
+            <div>
+              <div class="blackfont12">Building Construction | <span class="bluefontlight">24.05.2009</span></div>
+              <div>This Ministry received representations from various stakeholders to delink grant of
+Environment clearance from forest clearance in case of linear projects such as roads, transmission lines, pipelines etc. involving patches of forest land along their alignment, often stretching to several hundred kilometers.</div>
+            </div>
+            <div>
+              <div class="blackfont12">Bridge Construction | <span class="bluefontlight">27.05.2009</span></div>
+              <div>The projects involving widening! upgradation of existing roads will only be allowed to be executed on the entire stretch located in non- forest land, provided the user agency  submits an undertaking that execution of work on non-forest land shall not be cited as a reason for grant of approval under the Act and in case approval under the Act for diversion of forest land is declined, width of the portion of road falling in the forest land will be maintained at its existing level.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
 
-     <?php
-include_once("sidebar.php");
-     ?>
+
+
+
 <?php
 include_once("footer.php");
 ?>

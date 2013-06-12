@@ -11,64 +11,56 @@ include_once 'header.php'
       <div class="clear"></div>
       <div class="workarea">
         <div>
-          <div>
-            <h2>Services<span class="greenheading"> for you</span></h2>
-          </div>
+          
           <div class="service-content">
             <div style="padding-bottom:10px;">
-              <div><ul> 
-<li>Estimating cost of materials and labor.</li>
-<li>Obtaining permits and construction plans for the project.</li>
-<li>Coordinating all of the materials, labor and equipment needed to complete the job.</li>
-<li>Sub-contracting specialty work, such as plumbing, electrical, and mechanical.</li>
-<li>Overseeing the construction project from start to finish.</li>
-</ul></div>
+              
               <div class="clear"></div>
               <div class="clear"></div>
               <div class="servicecolumnzone">
                 <div class="servicecolumn1">
                   <div>
-                    <h5> Service 1</h5>
-                    <img src="images/ico1.png" alt="" class="abouticon" />
-Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new.
+                    <h5> Roads</h5>
+                    <img src="images/services/road.png" alt="" class="abouticon" />
+With the team of qualified professionals, we are committed to execute the road projects as per the  prevailed specifications like IRC, MoRT&H etc. and would like to be a part of India's infrastructural development.
                      </div>
                   <div class="clear"></div>
                 </div>
                 <div class="servicecolumn2">
                   <div>
-                    <h5>Service 2</h5>
-                    <img src="images/ico2.png" alt="" width="65" height="65" class="abouticon" />Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new.</div>
+                    <h5> Bridges</h5>
+                    <img src="images/services/bridge.png" alt="" width="65" height="65" class="abouticon" />We execute all kinds of works pertaining to construction of Major Bridges, Minor Bridges, Culverts & all other type of structures including pre-cast members by maintaining utmost quality in every aspect.</div>
                   <div class="clear"></div>
                 </div>
                 <div class="clear"></div>
                 <div class="servicecolumn1">
                   <div>
-                    <h5>Service 3 </h5>
-                    <img src="images/ico3.png" alt="" width="65" height="65" class="abouticon" />Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new.</div>
+                    <h5> Surveying </h5>
+                    <img src="images/services/survey.jpg" alt="" width="65" height="65" class="abouticon" />We undertake all Surveying Consultancy works and also Quantity Surveying works and will Generate quantity reports using latest softwares like Autoplotter, Road Estimater, CalQuan etc. and provide the quality support services to client.</div>
                   <div class="clear"></div>
                 </div>
                 <div class="servicecolumn2">
                   <div>
-                    <h5>Service 4 </h5>
-                    <img src="images/ico4.png" alt="" width="65" height="65" class="abouticon" />Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new. </div>
+                    <h5> Buildings & Pre-Fab structures </h5>
+                    <img src="images/services/buildings.gif" alt="" width="65" height="65" class="abouticon" />We take up all kinds of building works and pre-fabricated structural works including industrial buildings and will provide the best possible output by maintaining the prevailed industrial standards.</div>
                   <div class="clear"></div>
                 </div>
                 <div class="clear"></div>
                 <div class="servicecolumn1">
                   <div>
-                    <h5>Service 5 </h5>
-                    <img src="images/ico5.png" alt="" width="65" height="65" class="abouticon" />Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new.</div>
+                    <h5>Crusher's O&M</h5>
+                    <img src="images/services/crusher.gif" alt="" width="65" height="65" class="abouticon" />With our experienced Operation & Maintenance team, we are committed to achieve more than 80% of the maximum prescribed output capacity of any type of crusher with minimal operational cost and also ensure the maximum crusher's life span.</div>
                   <div class="clear"></div>
                 </div>
                 <div class="servicecolumn2">
                   <div>
-                    <h5>Service 6 </h5>
-                    <img src="images/ico6.png" alt="" width="65" height="65" class="abouticon" />Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new. </div>
+                    <h5>P&M Maintenance</h5>
+                    <img src="images/services/plant-mechinery.jpg" alt="" width="65" height="65" class="abouticon" />Having qualification combined with the experience, we undertake all maintenance activities of Plants like Batching Plant, Hot Mix plant etc. and also Machineries like Excavators, Dozers, Loaders, Pavers etc.</div>
                   <div class="clear"></div>
                 </div>
                 <div class="clear"></div>
               </div>
-              <div style="padding-top:10px;">Whether you need an updated lobby or conference room, or a complete renovation of an existing office space, CSG is here to help make sure your project is a smooth and complete transformation from the old to the new.</div>
+              
             </div>
           </div>
         </div>

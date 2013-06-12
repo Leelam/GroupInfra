@@ -1,7 +1,7 @@
  <div class="workarea" style="margin-top:20px">
         <div>
           <div>
-            <h2>Ongoing <span class="greenheading">Projects</span></h2>
+            <h2>Latest Infra News</h2>
           </div>
           <div class="newszone">
             <div>

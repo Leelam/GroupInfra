@@ -37,10 +37,10 @@ include_once 'header.php'
         </div>
       </div>
       <div class="clear"></div>
-   <div class="workarea" style="margin-top:20px">
+   <div class="workarea">
         <div>
           <div>
-            <h2>Latest Infra News</h2>
+            <h2 id="msg">Latest Infra News</h2>
           </div>
           <div class="newszone">
             <div>

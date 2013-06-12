@@ -171,10 +171,10 @@ include_once("header.php");
         </div>
       </div>
       <div class="clear"></div>
-   <div class="workarea" style="margin-top:20px">
+   <div class="workarea" style="margin-top:3px">
         <div>
           <div>
-            <h2><p class="blinking">Latest Infra News</p></h2>
+            <h2><p id="msg">Latest Infra News</p></h2>
           </div>
           <div class="newszone">
             <div>
